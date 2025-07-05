@@ -1,3 +1,9 @@
+.gitignore
 wd1_BackEnd/2.3_NPM/node_modules/
 
 wd1_BackEnd/2.4_QR_Code/node_modules/
+
+wd1_BackEnd/3.1_Express_JS/node_modules/
+wd1_BackEnd/3.2_Postman/node_modules/
+wd1_BackEnd/3.3_Middleware/node_modules/
+wd1_BackEnd/3.1_Express_JS/node_modules/math-intrinsics
